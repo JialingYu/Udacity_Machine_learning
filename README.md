@@ -1,5 +1,7 @@
 # Udacity_Machine_learning
-
+## Projects
+* [Project_Image_Classifier_Project](Project_Image_Classifier_Project.ipynb)
+  
 ## Neural network
 
 ### Back propagation: [backpropagation_basis](neural_network/backpapagation_basis.ipynb), [implementing the back propagation](neural_network/implement_backpropagation.ipynb)
@@ -11,3 +13,5 @@
 * [Part_4_Fashion_MNIST_(Exercise)](neural_network/Part_4_Fashion_MNIST_(Exercise).ipynb)
 * [Part_5_Inference_and_Validation_(Exercise)](neural_network/Part_5_Inference_and_Validation_(Exercise).ipynb)
 * [Part_6_Saving_and_Loading_Models](neural_network/Part_6_Saving_and_Loading_Models.ipynb)
+* [Part_7_Loading_Image_Data_(Exercise)](neural_network/Part_7_Loading_Image_Data_(Exercise).ipynb)
+* [Part_8_Transfer_Learning_(Exercise)](neural_network/Part_8_Transfer_Learning_(Exercise).ipynb)
