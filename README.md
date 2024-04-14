@@ -1,11 +1,13 @@
 # Udacity_Machine_learning
 ## Projects
-* [**Project Image Classifier Project**](projects/Project_Image_Classifier_Project.ipynb)
+* [**Project Image Classifier Project:**](projects/Project_Image_Classifier_Project.ipynb)
 built an image classifer using pretrained model MobileNet.
   
 ## Neural network
 
-### Back propagation: [backpropagation_basis](neural_network/backpapagation_basis.ipynb), [implementing the back propagation](neural_network/implement_backpropagation.ipynb)
+### Back propagation: 
+* [backpropagation_basis](neural_network/backpapagation_basis.ipynb)
+* [implementing the back propagation](neural_network/implement_backpropagation.ipynb)
 
 
 ### Training neural network with tensorflow:
