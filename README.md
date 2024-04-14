@@ -1,6 +1,6 @@
 # Udacity_Machine_learning
 ## Projects
-* [Project_Image_Classifier_Project](Project_Image_Classifier_Project.ipynb)
+* [Project_Image_Classifier_Project](projects/Project_Image_Classifier_Project.ipynb)
   
 ## Neural network
 
