@@ -19,3 +19,6 @@ built an image classifer using pretrained model MobileNet.
 * [Part_6_Saving_and_Loading_Models](neural_network/Part_6_Saving_and_Loading_Models.ipynb)
 * [Part_7_Loading_Image_Data_(Exercise)](neural_network/Part_7_Loading_Image_Data_(Exercise).ipynb)
 * [Part_8_Transfer_Learning_(Exercise)](neural_network/Part_8_Transfer_Learning_(Exercise).ipynb)
+
+### Training neural network with pytorch
+* [Multilayer perceptron for MNIST](neural_network/mnist_mlp_exercise.ipynb)
